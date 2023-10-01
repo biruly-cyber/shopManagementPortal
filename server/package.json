@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is shop managemnt tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biruly-cyber/shopManagementPortal.git"
+  },
+  "keywords": [
+    "grocery"
+  ],
+  "author": "Bhagwan Biruly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biruly-cyber/shopManagementPortal/issues"
+  },
+  "homepage": "https://github.com/biruly-cyber/shopManagementPortal#readme"
+}
